@@ -1,4 +1,4 @@
-<p align="center"> <img src="logo.png" alt="ZSZ Radiowęzeł - logo" width="300"/> </p> 
+<p align="center"> <img src="tlo_radiowezel.png" alt="ZSZ Radiowęzeł - logo" width="800"/> </p> 
 <h1 align="center">🎶 ZSZ Radiowęzeł – Rewolucja w Szkolnym Radiu! 🎧</h1>
 
  Gdzie technologia spotyka muzykę, a pasja spotyka innowację.
@@ -25,8 +25,9 @@ Z nami **Twoje szkolne radio** nigdy nie będzie takie samo! 🚀
 - **Przejrzysty interfejs**: Wszystko, co potrzebujesz, masz w zasięgu ręki!
 
 ---
-## 🔧 **Jak to działa?**
+##  **Jak to działa?**
 
+## 🔧 **Elementy projektu**
 ### 🌐 **Frontend** – Gdzie magia się dzieje  
 **Interaktywna platforma** oparta na **React**, która pozwala użytkownikom głosować na piosenki i sprawdzać, które cieszą się największą popularnością wśród społeczności.
 🔗 [Frontend Repo](https://github.com/ZszRadio/frontend)
@@ -44,8 +45,12 @@ Automatyczne pobieranie utworów, tworzenie playlist i zarządzanie muzyką za p
 🔗 [AIMP Controller Repo](https://github.com/ZszRadio/aimp-controller)
 
 ### 🌍 Koyeb API – Przez granice
-Dzięki Koyeb API, omijamy ograniczenia regionalne darmowej wersji Gemini APIPozwala to na zwiększenie dostępnych limitów i poprawę wydajności analizy tekstów piosenek. 
+Dzięki Koyeb API, omijamy ograniczenia regionalne darmowej wersji Gemini API. Pozwala to na zwiększenie dostępnych limitów i poprawę wydajności analizy tekstów piosenek.
 🔗 [Koyeb API repo](https://github.com/ZszRadio/koyebapi)
+
+### 🎛️ Admin & Docker – Centrum dowodzenia
+Panel administratora oparty zapewniający pełną kontrolę nad elementami systemu. Repozytorium to zawiera także wszystkie Dockerfile i Docker-compose, które są wykorzystywane w projekcie.
+🔗 [Admin & Docker repo](https://github.com/ZszRadio/admin_docker)
 
 ---
 
@@ -55,6 +60,7 @@ Dzięki Koyeb API, omijamy ograniczenia regionalne darmowej wersji Gemini APIPoz
 |------------------------------|-------------------------------|
 | **React**                    | Interaktywność i responsywność interfejsu |
 | **.NET**                  | Backend i logika aplikacji    |
+| **Postgre SQL**              | Baza danych               |
 | **Python & Gemini API**      | Analiza tekstów piosenek      |
 | **AIMP**                     | Odgrywanie muzyki             |
 | **Docker**                   | Konteneryzacja aplikacji      |
@@ -62,7 +68,7 @@ Dzięki Koyeb API, omijamy ograniczenia regionalne darmowej wersji Gemini APIPoz
 ---
 ## 🌍 **Nasz cel?**
 
-Zależy nam na stworzeniu **społeczności**, która nie tylko słucha, ale współtworzy szkolne radio. Stawiamy na **edukację**, **technologię** i **integrację** uczniów w tworzenie wyjątkowej atmosfery radiowej. 🎙️🎵
+Zależy nam na stworzeniu **społeczności**, która nie tylko słucha, ale współtworzy szkolne radio. Stawiamy na **technologię** i **integrację** uczniów w tworzenie wyjątkowej atmosfery. 🎙️🎵
 
 ---
 
@@ -70,11 +76,11 @@ Zależy nam na stworzeniu **społeczności**, która nie tylko słucha, ale wsp�
 
 Projekt zrealizowany przez **Zespół ZSZ Radiowęzeł** to pasjonaci technologii i muzyki. Poznaj nas:
 
-- 🎤 **Wojciech Błaszczyk** – Fullstack Developer, DevOps & Database Specialist
-- 🤖 **Jakub Michalski** – Python Developer, Prompt Engineer
-- 🎨 **Damian Ciszak** – Frontend Developer 
-- 🎧 **Dawid Kaźmierczak** – UI/UX Designer
-- 🔧 **Mateusz Snela** – Python & Solutions Expert
+- 🎤 [**Wojciech Błaszczyk**](https://github.com/Wojtaz2345982) – Fullstack Developer, DevOps & Database Specialist
+- 🤖 [**Jakub Michalski**](https://github.com/jakub1m) – Python Developer, Prompt Engineer
+- 🎨 [**Damian Ciszak**](https://github.com/Ciszpan3) – Frontend Developer 
+- 🖌️ [**Dawid Kaźmierczak**](https://github.com/K4ziWolf) – UI/UX Designer
+- 🛠️ [**Mateusz Snela**](https://github.com/Over7oader) – Python & Solutions Expert
 
 ---
 
@@ -84,7 +90,7 @@ Dołącz do nas i zostań częścią tej muzycznej rewolucji! 🌟
 
 Jeśli masz pytania, sugestie lub pomysły, **skontaktuj się z nami!**
 
-📧 [Napisz do nas](mailto:kontakt@zszradiowezel.pl)
+📧 [Napisz do nas](radiowezel.zszgostyn@gmail.com)
 
 ---
 ## 🔓 **Licencja**
@@ -93,10 +99,7 @@ Projekt **ZSZ Radiowęzeł** jest open-source i dostępny na licencji **MIT** �
 
 ---
 
-<p align="center">
-  <img src="footer_image.png" alt="ZSZ Radiowęzeł Footer" />
-</p>
-
+<p align="center"> <img src="tlo_radiowezel.png" alt="ZSZ Radiowęzeł - logo" width="800"/> </p> 
 
 
 
